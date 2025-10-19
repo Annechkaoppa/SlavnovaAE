@@ -1,0 +1,10 @@
+
+   *.xlsx
+   *.dll
+
+   *.so
+   *.a
+
+
+   node_modules/
+   
